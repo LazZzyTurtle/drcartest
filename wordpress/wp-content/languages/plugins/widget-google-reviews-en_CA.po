@@ -1,0 +1,32 @@
+# Translation of Plugins - Plugin for Google Reviews - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Plugin for Google Reviews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-09 11:23:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Plugin for Google Reviews - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#: grw.php
+msgid "https://richplugins.com"
+msgstr "https://richplugins.com"
+
+#. Author of the plugin
+#: grw.php
+msgid "RichPlugins <support@richplugins.com>"
+msgstr "RichPlugins <support@richplugins.com>"
+
+#. Description of the plugin
+#: grw.php
+msgid "Instantly Google Places Reviews on your website to increase user confidence and SEO."
+msgstr "Instantly Google Places Reviews on your website to increase user confidence and SEO."
+
+#. Plugin URI of the plugin
+#: grw.php
+msgid "https://richplugins.com/business-reviews-bundle-wordpress-plugin"
+msgstr "https://richplugins.com/business-reviews-bundle-wordpress-plugin"
